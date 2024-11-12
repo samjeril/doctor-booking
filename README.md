@@ -1,6 +1,6 @@
-# AppointMed - Doctor Appointment Booking Platform
+# Doctor Booking Platform
 
-
+## Demo video : https://drive.google.com/drive/folders/1Y0lmk4XpYophzh0W0Dguum9Bv2S4psfw?usp=drive_link
 ## Features
 
 - 📅 **Easy Appointment Booking**: Simple and intuitive interface to book doctor appointments.
@@ -37,13 +37,13 @@ To get started with AppointMed, follow these steps:
    
    3. Set up environment variables:
 
-Create a .env file in the backend folder.
+Create a .env file.
 Add your MongoDB URI, JWT secret, and other required configurations:
 
 MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
 
-4. Run the application:
+4. Run the app:
 
 # Run backend server
 cd backend
